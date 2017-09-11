@@ -6,5 +6,6 @@ The JSON object contains all necessary data that is needed for displaying the ch
 
 This project was made **without any framework or plugin**. Also it is supported in all modern browsers.
 
-###[Demo (English)](http://chart.byethost5.com/chart.html?lang=en)
-###[Demo (Serbian)](http://chart.byethost5.com/chart.html?lang=sr)
+**[Demo (English)](http://chart.byethost3.com/chart.html?lang=en)**
+
+**[Demo (Serbian)](http://chart.byethost3.com/chart.html?lang=sr)**
